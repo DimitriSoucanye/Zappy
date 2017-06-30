@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Zapp Poke
 
-You can use the [editor on GitHub](https://github.com/DimitriSoucanye/Zappy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<p><img src="Preview_Pika-Gauntlet.png" alt="Preview"></p>
+Please enjoy this game.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1>Use</h1>
 
-### Markdown
+<p>After downloading the files, you have the choice between a Linux version and a Windows version.</p>
+<p>Choose the one that corresponds to your operating system.</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h3>Linux</h3>
+<p>To install launch make</p>
 
-```markdown
-Syntax highlighted code block
+<h3>MacOS</h3>
+<p>To install launch make</p>
 
-# Header 1
-## Header 2
-### Header 3
+<h3> Windows </h3>
+<p> There is no windows version yet </p>
+<p> But you can follow this link : https://doc.ubuntu-fr.org/virtualbox </p>
+<p> In which you will install a Linux Virtual Machine, and play this game while waiting for a windows version </p>
 
-- Bulleted
-- List
+<h1>Implementations</h1>
+<p> Some features are coming :<br />
+     - Mob implementation<br />
+     - Personnalisable maps<br />
+     - More difficulties: others levels + bonus
+</p>
 
-1. Numbered
-2. List
+<h1>Download</h1>
 
-**Bold** and _Italic_ and `Code` text
+<p>You can download the files on our GitHub account,<br />
+or direct links are at the bottom of the page</p>
 
-[Link](url) and ![Image](src)
-```
+<h1>Links</h1>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<a href="https://github.com/DimitriSoucanye/Zappy/archive/master.zip">Download .zip </a> <br />
+<a href="x-github-client://openRepo/https://github.com/DimitriSoucanye/Zappy">Open in Desktop</a>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DimitriSoucanye/Zappy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p><img src="http://www.eclypsia.com/public/upload/cke/Guides/Pokemon%20GO/Pokemon_Go_Guides_Pikachu.png" alt="See you soon :D"></p
