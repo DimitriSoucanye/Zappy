@@ -1,6 +1,6 @@
 # Poke Zappy
 
-<p><img src="Preview_Pika-Gauntlet.png" alt="Preview"></p>
+<p><img src="Preview.png" alt="Preview"></p>
 Please enjoy this game.
 
 <h1>Use</h1>
