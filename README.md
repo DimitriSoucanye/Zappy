@@ -1,4 +1,4 @@
-# Zapp Poke
+# Poke Zappy
 
 <p><img src="Preview_Pika-Gauntlet.png" alt="Preview"></p>
 Please enjoy this game.
